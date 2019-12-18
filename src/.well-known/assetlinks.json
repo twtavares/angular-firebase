@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.bancopan.veiculos",
+    "sha256_cert_fingerprints":
+    ["6B:31:A7:8C:C3:3E:70:96:42:D2:12:76:BD:66:23:D3:71:DF:94:43:4C:90:CF:6A:88:47:D0:00:40:67:2F:84"]
+  }
+}]
